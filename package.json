@@ -21,7 +21,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "perfectionist": "^2.4.0"
   },
   "scripts": {
