@@ -1,5 +1,3 @@
-console.log('test')
-
 const controller = new ScrollMagic.Controller();
 
 const images = [
